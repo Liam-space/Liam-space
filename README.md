@@ -40,7 +40,7 @@ React, Node.js, Express, MongoDB, API development
 
 📧 williamgbadebooke@gmail.com
 
-🔗 LinkedIn: 
+🔗 LinkedIn: www.linkedin.com/in/ayanfeoluwa-gbadebo-oke-7907132aa
 
 <!--
 **Liam-space/Liam-space** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
