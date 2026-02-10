@@ -3,7 +3,7 @@
 **Web Developer**  
 Building clean, modern web projects and shipping consistently.
 
-- 🌐 Portfolio: liam-space.netlify.app
+- 🌐 Portfolio: https://liam-space.netlify.app
 - 💻 GitHub: You’re already here
 - 📩 Fastest contact: Instagram DM (link below)
 
